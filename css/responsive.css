@@ -1,0 +1,255 @@
+
+
+
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+    /* CSS */
+    header{
+      padding: 40px 15px;  
+  }
+  .banner-section{
+    padding: 40px 15px;
+    text-align: center;
+    height: 90vh;
+  }
+  .cus-height{
+    height: 80vh;
+  }
+  .banner-section .content h1{
+   font-size: 45px;
+}
+.banner-section .content h2{
+   font-size: 20px;
+   width: 100%;
+}
+.banner-section .content .underline {
+  margin: 25px auto;
+
+}
+.banner-section .content p {
+  width: 90%;
+  font-size: 15px;
+}
+.banner-section .content .btns .btn-info {
+  margin-top: 5px;
+}
+.right-inner .card{
+  margin: 80px 0px 10px 5px;
+
+}
+.social-section{
+  text-align: center;
+  padding: 40px 15px;
+
+}
+.social-section .title h4{
+  font-size: 20px;
+ 
+}
+.social-section .title p{
+  font-size: 16px;
+} 
+.social-section .social-icons{
+  text-align: center;
+  
+}
+.social-section .social-icons ul li {
+ margin-left: 15px;
+}
+
+.social-section .social-icons ul li a i {
+    font-size: 35px;
+
+}
+.tab-section {
+  padding: 40px 15px;
+}
+.tab-section .tab-inner h4{
+  padding: 0px 14px;
+  margin: 0px 15px;
+  font-size: 20px;
+}
+.tab-section .tab-inner p {
+  margin: 20px 30px 0px 29px;
+  width: 90%;
+}
+.tab-section .tab-inner p .p-lorem{
+  width: 90%;
+  
+}
+.tab-section .tab-inner .btns{
+  margin: 35px 26px;
+}
+.tab-section .tab-inner .btns .btn-primary {
+  border-radius: 3px;
+  
+}
+.list-section{
+  padding: 40px 15px;
+}
+.list-section .left img{
+  margin: 20px 15px;
+  text-align: center;
+ 
+}
+.list-section .right{
+  margin: 20px 15px;
+ 
+}
+.list-section .right h4{
+  margin: 25px 0px;
+  text-align: center;
+  font-size: 20px;
+  
+}
+.list-section .right .underline{
+  margin: 25px auto;
+}
+.list-section .right .p-inner{
+  width: 100%;
+  margin: 25px 0px;
+}
+.list-section .right .list i{
+  font-size: 15px;
+  margin: 15px 0px;
+}
+.list-section .right .list .list-right .p-part{
+  width: 82%;
+  margin: 15px 0px;
+}
+.picture-section{
+   text-align: center;
+   padding: 40px 15px;
+  
+}
+.picture-section .left-inner .underline{
+  margin: 25px auto;
+
+}
+.picture-section .left-inner p{
+  width: 94%;
+}
+.awesome-section{
+  padding: 40px 15px;
+  text-align: center;
+}
+.awesome-section .why h2{
+  font-size: 30px;
+  
+}
+.awesome-section .well{
+  padding: 30px 15px;
+}
+.awesome-section .well .icon-inner{
+  padding: 5px 0px;
+}
+.awesome-section .well p {
+  margin: 0px 20px;
+  width: 90%;
+}
+.pricing-section{
+  padding: 40px 15px;
+
+}
+.pricing-section .options h2{
+  font-size: 30px;
+}
+.pricing-section .pc-card{
+  padding: 40px 15px;
+}
+.customer-section{
+  padding: 40px 15px;
+  text-align: center;
+}
+.customer-section .say h2{
+  font-size: 21px;
+}
+.customer-section .cus-inner{
+  padding: 40px 15px;
+  text-align: center;
+
+}
+.customer-section .cus-inner .parent{
+  padding: 40px 15px;
+  text-align: center;
+}
+.stylish-section{
+  padding: 40px 15px;
+  text-align: center;
+ 
+} 
+
+.stylish-section .design h2{
+    font-size: 30px;
+}
+.contact-section{
+  padding: 40px 15px;
+  text-align: center;
+}
+.footer-section{
+  padding: 40px 15px;
+  text-align: center;
+}
+
+}
