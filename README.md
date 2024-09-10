@@ -1,2 +1,2 @@
-# axit-pasd-full-project-with-responsive
+# axit-psd-full-project-with-responsive
 html,css,div class,display flex
